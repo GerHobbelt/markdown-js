@@ -7,13 +7,21 @@
     "text processing",
     "ast"
   ],
-  "maintainers": [
-    "Dominic Baggott <dominic.baggott@gmail.com> (http://evilstreak.co.uk)",
-    "Ash Berlin <ash_markdownjs@firemirror.com> (http://ashberlin.com)"
-  ],
-  "contributors": [
-    "Dominic Baggott <dominic.baggott@gmail.com> (http://evilstreak.co.uk)",
-    "Ash Berlin <ash_markdownjs@firemirror.com> (http://ashberlin.com)"
+  "contributors" : [
+    {
+      "name" : "Dominic Baggott",
+      "email" : "dominic.baggott@gmail.com",
+      "web" : "http://evilstreak.co.uk"
+    },
+    {
+      "name" : "Ash Berlin",
+      "email" : "ash_markdownjs@firemirror.com",
+      "web" : "http://ashberlin.com"
+    },
+    {
+      "name": "Garen Torikian",
+      "email": "gjtorikian@gmail.com"
+    }
   ],
   "bugs": {
     "url": "http://github.com/evilstreak/markdown-js/issues"
