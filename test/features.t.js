@@ -70,7 +70,7 @@ dialects.Gruber = [
 ];
 
 dialects.Maruku = dialects.Gruber.slice( 0 );
-dialects.Maruku.push( "meta", "definition_lists" );
+dialects.Maruku.push( "meta", "definition_lists", "tables" );
 
 dialects.Github = [ "emphasis", "github" ]
 
