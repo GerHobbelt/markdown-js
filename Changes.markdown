@@ -1,5 +1,11 @@
 # Changelog for markdown
 
+## v0.4.2 - 2013-18-08
+
+- disabled html escaping except for inside code blocks
+- modified the Gruber dialect to produce code blocks with a class attribute configured to trigger prettyprinting via google-code-prettify assuming coffeescript syntax
+
+
 ## v0.4.0 - 2012-06-09
 
 - Fix for anchors enclosed by parenthesis (issue #46)
