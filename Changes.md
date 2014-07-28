@@ -9,6 +9,10 @@
 - Use [Grunt](http://gruntjs.com/) to build tailored versions including allowing
   customizing of what dialects are included ([#113] - [Robin Ward](https://github.com/eviltrout))
 
+## v0.6.0-beta2 - 2014-07-28
+
+- Added bower.json to allow management by bower
+
 ## v0.5.0 - 2013-07-26
 
 There might be other bug fixes then the ones listed - I've been a bit lax at
